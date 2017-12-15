@@ -5,5 +5,8 @@ public class Foo5 {
 		String test1 = "22";
 		String test2 = "23";
 		
-		String tests = "这里是test的内容";
+		String tests = "这里应该是争取的swift2的代码";
+		String tests1 = "修改sdk为1.6.1";
+		
+		
 }
