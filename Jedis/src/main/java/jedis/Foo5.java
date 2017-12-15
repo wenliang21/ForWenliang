@@ -7,4 +7,6 @@ public class Foo5 {
 		
 		String tests = "这里应该是争取的swift2的代码";
 		
+		
+		
 }
