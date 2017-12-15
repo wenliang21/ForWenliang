@@ -4,6 +4,7 @@ public class Foo5 {
 		String test0 = "21";
 		String test1 = "22";
 		String test2 = "23";
+<<<<<<< Upstream, based on origin/swift2
 
 		
 		String tests = "这里应该是争取的swift2的代码";
@@ -13,4 +14,8 @@ public class Foo5 {
 
 		
 
+=======
+		
+		String tests = "这里是test的内容";
+>>>>>>> 9b1e5bd dev的内容
 }
